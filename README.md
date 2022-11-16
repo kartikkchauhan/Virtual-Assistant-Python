@@ -6,4 +6,4 @@ Automation, Face recognition, Machine Learning, Motion detection, NLP, Python so
 
 Working video of this virtual assistant -: https://www.youtube.com/watch?v=VL8vPz2Rpe0&t=2s
 
-https://journals.resaim.com/ijresm/article/view/38
+Paper : https://journals.resaim.com/ijresm/article/view/38
