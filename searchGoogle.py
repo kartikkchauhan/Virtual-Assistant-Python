@@ -43,7 +43,7 @@ def searchGoogle():
         buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': 'AIzaSyAoOnV6GBKrQ0s4kNjy9JVNMAMBskGZIRY'
+        'developerKey': 'Paste Your Key'
         }
 
         # Define cseargs for search
